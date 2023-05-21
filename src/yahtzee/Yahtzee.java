@@ -258,6 +258,8 @@ public class Yahtzee extends javax.swing.JFrame {
         jSeparator1.setBackground(new java.awt.Color(0, 0, 0));
         jSeparator1.setForeground(new java.awt.Color(0, 0, 0));
 
+        jButton8.setBackground(new java.awt.Color(0, 0, 0));
+        jButton8.setForeground(new java.awt.Color(255, 153, 153));
         jButton8.setText("Reset Game");
         jButton8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
